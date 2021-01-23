@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
                     sum = (a + b) / c;
                     s= String.valueOf(sum);
                 }
-                textVie.setText(s);
             }
         });
     }
